@@ -1,0 +1,104 @@
+body
+{
+    background-color: #24353f;
+}
+.body
+{
+    background-color:#0092b3;
+}
+h1
+{
+    text-align: center;
+    color: #17a2b8;
+}
+.dev1
+{
+    text-align: center;
+
+    padding-top: 15%;
+}
+
+.dev1 form input
+{
+    width: 50%;
+    height: 30px;
+    text-align: center;
+    background-color: #24353f;
+    border: 1px solid white;
+    color: white;
+}
+
+.dev1 form button
+{
+    width: 100px;
+    height: 30px;
+    border: none;
+    background-color: #24353f;
+    border: 1px solid #17a2b8;
+    color: white;
+}
+
+.dev1 form button:hover
+{
+    background-color: #0dcaf0;
+}
+form p{
+    color: white;
+}
+p a
+{
+    color: white;
+}
+
+a:hover
+{
+    color: blue;
+}
+.dev2
+{
+    text-align: center;
+    padding-top: 50px;
+}
+.dev2 img
+{
+    width: 15%;
+}
+.dev3 img
+{
+    width: 2%;
+    height: 2%;
+    background-color: white;
+    padding-left: 10px;
+    background-color: #0092b3;
+}
+.dev3
+{
+    text-align: center;
+}
+h3
+{
+    color: white;
+}
+span
+{
+    color: #faa776;
+}
+
+.dev4
+{
+    text-align: center;
+    padding-top: 40px;
+}
+
+.dev4 a{
+    border: 1px solid white;
+    padding: 10px;
+    background-color: #0092b3;
+    color: white;
+    text-decoration: none;
+}
+.dev4 a:hover{
+    background-color: #24353f;
+    border: none;
+}
+
